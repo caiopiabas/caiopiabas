@@ -4,8 +4,8 @@ Bem-vindo ao meu perfil do GitHub. Sou um programador apaixonado por desafios e 
 
 ## 🔧 Tecnologias & Ferramentas
 
-- Linguagens: Java, JavaScript, C#, 
-- Frameworks: React
+- Linguagens: Java, JavaScript, C#, Css 
+- Frameworks: React, Bootstrap
 - Banco de Dados: MongoDB, MySQL
 
 
